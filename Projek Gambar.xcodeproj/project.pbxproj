@@ -14,6 +14,8 @@
 		D3C2045E2A9152E00068EB7D /* Projek_GambarTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3C2045D2A9152E00068EB7D /* Projek_GambarTests.swift */; };
 		D3C204682A9152E00068EB7D /* Projek_GambarUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3C204672A9152E00068EB7D /* Projek_GambarUITests.swift */; };
 		D3C2046A2A9152E00068EB7D /* Projek_GambarUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3C204692A9152E00068EB7D /* Projek_GambarUITestsLaunchTests.swift */; };
+		D3C204772A9153A30068EB7D /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3C204762A9153A30068EB7D /* SwiftUIView.swift */; };
+		D3C2047D2A9154EA0068EB7D /* Pageketiga.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3C2047C2A9154EA0068EB7D /* Pageketiga.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +46,8 @@
 		D3C204632A9152E00068EB7D /* Projek GambarUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Projek GambarUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D3C204672A9152E00068EB7D /* Projek_GambarUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Projek_GambarUITests.swift; sourceTree = "<group>"; };
 		D3C204692A9152E00068EB7D /* Projek_GambarUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Projek_GambarUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D3C204762A9153A30068EB7D /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
+		D3C2047C2A9154EA0068EB7D /* Pageketiga.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pageketiga.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +100,8 @@
 			children = (
 				D3C2044C2A9152DD0068EB7D /* Projek_GambarApp.swift */,
 				D3C2044E2A9152DD0068EB7D /* ContentView.swift */,
+				D3C204762A9153A30068EB7D /* SwiftUIView.swift */,
+				D3C2047C2A9154EA0068EB7D /* Pageketiga.swift */,
 				D3C204502A9152DF0068EB7D /* Assets.xcassets */,
 				D3C204522A9152DF0068EB7D /* Preview Content */,
 			);
@@ -258,7 +264,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				D3C2044F2A9152DD0068EB7D /* ContentView.swift in Sources */,
+				D3C2047D2A9154EA0068EB7D /* Pageketiga.swift in Sources */,
 				D3C2044D2A9152DD0068EB7D /* Projek_GambarApp.swift in Sources */,
+				D3C204772A9153A30068EB7D /* SwiftUIView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
